@@ -1,7 +1,7 @@
 .row{
-padding: 0px;
-margin: 0px;
-}
+    padding: 0px;
+    margin: 0px;
+ }
 .container{
     display: flex;
     justify-content: space-between;
@@ -10,17 +10,16 @@ margin: 0px;
 
 #logoAP{
     width: 150px;
+    padding: 0px;
+    margin: 0px;
     
 }
 img{
     width: 50px;
-    padding: 5px;
-  
+    padding: 0px;
 }
 
 .redes{
     margin-right: 0.5em;
-    
-   
 }
 
